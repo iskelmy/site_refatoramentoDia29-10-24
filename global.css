@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+}
+body{
+    background: #f7f7f7;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header h1{
+    display:block
+
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
